@@ -1,1 +1,1 @@
-<?php $RDS_URL='bancoscn.ceexkgmaalu1.us-east-1.rds.amazonaws.com'; $RDS_DB='dados'; $RDS_user='admin'; $RDS_pwd=''; ?>
+<?php $RDS_URL=''; $RDS_DB=''; $RDS_user='admin'; $RDS_pwd=''; ?>
