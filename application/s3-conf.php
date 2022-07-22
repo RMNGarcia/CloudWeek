@@ -1,6 +1,6 @@
 <?php
-$accessKey = 'AKIA2JHUIP4KMAUXM2UW';
-$secretKey = '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';
+$accessKey = '';
+$secretKey = '';
 $region = 'us-east-1';
 $bucket = 'scloud.local';
 $arqName =  'logo.jpg';
